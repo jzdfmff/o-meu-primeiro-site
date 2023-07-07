@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+
+p{
+    color: white;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    color: white;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 20px;
+
+}
+
+#header-btn {
+    font-size: 15px;
+    color: white;
+    background-color: orange;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    padding-top: 2px;
+    text-align: center;
+
+}
+
+.Header-container{
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%
+}
+
+
+
+.card-container{
+    margin: 50px;
+    margin-bottom: 100px;
+}
+
+.card-text{
+    color: black
+}
+
+.testemonial-container{
+    background-color: #54B435;
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.btn-primary{
+
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #379237;
+border: white;
+}
+
+.nav-container{
+background-color: white;
+color: white;
+font-family: 'Agdasima', sans-serif;
+}
+
+.noticias-container{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+   
+}
+
+.internacional-container{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 40px;
+  
+}
+
+.titulo-container{
+
+    color: black;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 20px;
+    
+}
+
